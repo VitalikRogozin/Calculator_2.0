@@ -10,14 +10,14 @@
 
     <TextView
         android:id="@+id/math_operation"
-        style="@style/TextView"
+        style="@style/text_view"
         android:layout_height="80sp"
         android:textSize="40sp"
         android:ellipsize="start" />
 
     <TextView
         android:id="@+id/result_text"
-        style="@style/TextView"
+        style="@style/text_view"
         android:layout_height="100sp"
         android:ellipsize="end"
         android:textSize="30sp" />
